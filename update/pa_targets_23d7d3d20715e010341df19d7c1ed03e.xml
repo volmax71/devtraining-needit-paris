@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_targets">
+    <pa_targets action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <aggregate/>
+        <any_element>false</any_element>
+        <breakdown/>
+        <breakdown_level2/>
+        <color_scheme/>
+        <element/>
+        <element_level2/>
+        <indicator display_value="NeedIt: Active Weekly">ea85719a07dda010341df19d7c1ed03b</indicator>
+        <owner/>
+        <sys_class_name>pa_targets</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-27 22:08:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>23d7d3d20715e010341df19d7c1ed03e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>ea85719a07dda010341df19d7c1ed03b</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_targets_23d7d3d20715e010341df19d7c1ed03e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-27 22:09:02</sys_updated_on>
+        <values_modified_at>2020-12-27 22:09:02</values_modified_at>
+    </pa_targets>
+</record_update>
